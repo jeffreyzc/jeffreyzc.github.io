@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Professional / R&D Projects
 ---
 
 # Professional / R&D
