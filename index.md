@@ -1,13 +1,12 @@
-# Jeffrey Chen,  Ph.D.
-## Cross-disciplinary R&D scientist and technology developer
+# Jeffrey Chen, Ph.D.
 
-I work across materials science, mechanical/industrial design, prototype development, and system-level engineering. This site collects my professional work, personal projects, art projects, and occasional notes.
+### Cross-disciplinary R&D scientist and technology developer
 
+I work across materials science, mechanical/industrial design, prototype development, and system-level engineering. This site collects my professional work, personal technical projects, art projects, and occasional notes.
 
+<br>
 
-
-
-## Things I do:
+## Things I Do
 
 ### Professional / R&D
 
@@ -17,17 +16,15 @@ I work across materials science, mechanical/industrial design, prototype develop
 - Polymer membranes and multilayer materials
 - COMSOL optical and system-level modeling
 
-
+<br>
 
 ### Personal Projects
-- Apps: semi-professional film negative converter app
-- Designs: Film photography accessories, air filtration systems - all 3D printing fun projects 
 
+- Apps and tools for photography, image processing, and data analysis
+- Mechanical/industrial designs for film photography accessories, air-filtration systems, and 3D-printed prototypes
 
-
+<br>
 
 ### Art
-Photography exploring quiet scenes, abstraction, memory, and atmosphere.
 
- 
- 
+Black-and-white photography exploring quiet scenes, abstraction, memory, and atmosphere.
