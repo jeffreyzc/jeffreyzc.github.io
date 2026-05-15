@@ -3,9 +3,7 @@ layout: page
 title: Projects
 ---
 
-# Projects
-
-## Professional / R&D
+# Professional / R&D
 
 - Photochemical reactor and photon-management system design
 - Polymer membranes and multilayer materials
