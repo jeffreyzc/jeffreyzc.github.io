@@ -1,30 +1,29 @@
-## Jeffrey Chen
-description: Materials, Photoreactors, Prototypes, Photography & Notes
- 
+---
+layout: home
+title: Home
+---
 
-**Cross-disciplinary R&D scientist and technology developer**  
-Materials · Photoreactors · Prototypes · Mechanical Design · Photography · Notes
+# Jeffrey Chen,  Ph.D.
 
-I work across materials science, prototype development, mechanical/industrial design, and system-level engineering, with interests spanning photochemical systems, polymers, thin films, nanomaterials, and practical technology development.
+I work across materials science, mechanical/industrial design, prototype development, and system-level engineering. This site collects my professional work, personal projects, art projects, and occasional notes.
 
-## Selected Work
+
+## Things I do:
 
 ### Professional / R&D
-- Photochemical reactor and photon-management system design
-- Polymer membranes and multilayer materials
+
 - Semiconductor thin-film fabrication and characterization
 - Synchrotron-based characterization and data analysis
+- Photochemical and electrochemical reactors; photon-management system design
+- Polymer membranes and multilayer materials
 - COMSOL optical and system-level modeling
 
 ### Personal Projects
-- DSLR film negative converter app
-- 3D-printed filter and ventilation part designs
-- Python data-processing scripts
-- Experimental design tools and prototypes
+- Apps: semi-professional film negative converter app
+- Designs: Film photography accessories, air filtration systems - all 3D printing fun projects 
 
-### Photography
-Black-and-white photography exploring quiet scenes, abstraction, memory, and atmosphere.
+### Art
+Photography exploring quiet scenes, abstraction, memory, and atmosphere.
 
-## Contact
-
+ 
  
