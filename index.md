@@ -1,4 +1,6 @@
-# Jeffrey Chen
+title: Jeffrey Chen
+description: Materials, Photoreactors, Prototypes, Photography & Notes
+theme: minima
 
 **Cross-disciplinary R&D scientist and technology developer**  
 Materials · Photoreactors · Prototypes · Mechanical Design · Photography · Notes
