@@ -1,8 +1,3 @@
----
-layout: page
-title: Professional / R&D Projects
----
-
 # Professional / R&D
 
 Selected work across photochemical systems, polymer materials, thin-film fabrication, synchrotron characterization, and prototype/system design.
