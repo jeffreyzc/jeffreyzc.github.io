@@ -73,6 +73,21 @@ Custom in situ synchrotron setups and analysis workflows for tracking structural
 
 <br>
 
+<br>
+
+<div class="project-block">
+
+  <h2>Advanced Data Processing and Scientific Computing</h2>
+  <p class="project-category">Data Analysis and AI-Assisted Scientific Computing</p>
+
+  <p><strong>Overview:</strong><br>
+  I build AI-assisted Python data-processing and visualization workflows for advanced materials characterization. These tools support 1D, 2D, and 3D analysis of synchrotron datasets, including powder scattering, diffraction images, and thin-film structural data. My role focuses on defining the scientific analysis logic, validating the results, and turning experimental needs into usable tools.</p>
+
+  <div class="project-image">
+    <img src="assets/images/data.PNG" alt="AI-assisted Python-based 1D, 2D, and 3D data processing for synchrotron and materials-characterization datasets">
+  </div>
+
+</div>
 
 <div class="project-block">
 
