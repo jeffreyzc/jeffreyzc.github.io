@@ -48,7 +48,10 @@ I designed, fabricated, and characterized complex semiconductor thin films, incl
   <div class="project-image">
     <img src="assets/images/thin-film-prep.png" alt="Semiconductor thin-film design, fabrication, and characterization">
   </div>
-
+  
+<p class="image-caption">
+Representative thin-film fabrication, crystallography, morphology, strain analysis, and atomic-scale characterization.
+</p>
 </div>
 
 <br>
@@ -86,6 +89,9 @@ Custom in situ synchrotron setups and analysis workflows for tracking structural
   <div class="project-image">
     <img src="assets/images/data.PNG" alt="AI-assisted Python-based 1D, 2D, and 3D data processing for synchrotron and materials-characterization datasets">
   </div>
+<p class="image-caption">
+Representative AI-assisted Python workflows for quantitative analysis and visualization of synchrotron datasets across 1D, 2D, and 3D formats.
+</p>
 
 </div>
 <br>
@@ -121,6 +127,9 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   <div class="project-image">
     <img src="assets/images/multilayer.PNG" alt="Multilayer film/foam polymer processing system and resulting structure">
   </div>
+  <p class="image-caption">
+System design, process development, and structure characterization for mass production of alternating film/foam multilayer polymer structures.
+</p>
 
 </div>
 
@@ -137,5 +146,7 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   <div class="project-image">
     <img src="assets/images/design.PNG" alt="Selected hardware and system designs for advanced characterization, reactors, and prototypes">
   </div>
-
+<p class="image-caption">
+Selected custom hardware and system designs for advanced characterization, reaction engineering, and prototype development.
+</p>
 </div>
