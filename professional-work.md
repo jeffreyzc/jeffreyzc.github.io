@@ -45,9 +45,6 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
 
 <div class="project-row">
 
-  <div class="project-image">
-    <img src="assets/images/in situ thin film.JPG" alt="Semiconductor thin-film fabrication and characterization">
-  </div>
 
   <div class="project-text">
     <h2>Semiconductor Thin-Film Fabrication and Characterization</h2>
@@ -57,6 +54,9 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
 
     <p><strong>Methods / tools:</strong><br>
     Thin-film fabrication, coating, XRD, microscopy, spectroscopy, and electronic/material characterization.</p>
+  </div>
+  <div class="project-image">
+    <img src="assets/images/in situ thin film.JPG" alt="Semiconductor thin-film fabrication and characterization">
   </div>
 
 </div>
