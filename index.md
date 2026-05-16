@@ -23,7 +23,7 @@ AI-assisted tool building, 3D-printed functional designs, photography tools, hom
 
 <br>
 
-### [Photography & Visual Work](photography.html)
+### [Photography & Visual Work](art.html)
 
 A small selection of photographs exploring quiet scenes, abstraction, memory, and atmosphere.
 
