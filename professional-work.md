@@ -21,6 +21,11 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
   margin-top: 18px;
   display: block;
 }
+.image-caption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 8px;
+}
 </style>
 
 <br>
@@ -45,11 +50,15 @@ I designed, fabricated, and characterized complex semiconductor thin films, incl
   <h2>Advanced In Situ Synchrotron Characterization of Thin Films</h2>
 
   <p><strong>Overview:</strong><br>
-  I developed synchrotron-based characterization workflows to monitor how semiconductor thin-film structures evolve during interactions with light and matter. These measurements made it possible to study structural and interfacial changes under functionally relevant conditions.</p>
+  I developed synchrotron-based characterization workflows to study how semiconductor thin films evolve during interactions with light, reactants, and controlled environments. This work combined custom in situ measurement systems, beamline-compatible reactor/tool design, and advanced data analysis to connect thin-film structural and electronic changes under functionally relevant conditions.</p>
 
-  <div class="project-image">
-    <img src="assets/images/in-situ-thin-film.PNG" alt="In situ synchrotron characterization of thin films">
-  </div>
+<div class="project-image">
+  <img src="assets/images/in-situ-thin-film.PNG" alt="In situ synchrotron characterization of thin films">
+</div>
+
+<p class="image-caption">
+Custom in situ synchrotron setups and analysis workflows for tracking structural and electronic changes in semiconductor thin films under light/reactant interactions.
+</p>
 
 </div>
 
