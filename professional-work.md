@@ -3,7 +3,7 @@ layout: page
 title: Professional / R&D Projects
 ---
 
-Selected work across photochemical systems, polymer materials, thin-film fabrication, synchrotron characterization, and prototype/system design.
+Selected work across materials design, advanced characterization, data analysis, reactor systems, polymer processing, and prototype development.
 
 <style>
 .project-block {
@@ -132,7 +132,7 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   <p class="project-category">Experimental Hardware and Prototype Design</p>
 
   <p><strong>Overview:</strong><br>
-  I design custom hardware and experimental systems for advanced characterization, reaction engineering, and prototype development. Selected examples include synchrotron-compatible measurement cells, thin-film deposition accessories, high-pressure photocatalysis reactors, electrochemical testing tools, and simulation-guided photoreactor prototypes.</p>
+  I design custom hardware and experimental systems for advanced characterization, reaction engineering, and prototype development. Examples include synchrotron-compatible measurement cells, thin-film deposition accessories, high-pressure photocatalysis reactors, electrochemical testing tools, and simulation-guided photoreactor prototypes.</p>
 
   <div class="project-image">
     <img src="assets/images/design.PNG" alt="Selected hardware and system designs for advanced characterization, reactors, and prototypes">
