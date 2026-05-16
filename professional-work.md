@@ -51,10 +51,10 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
   <h2>Advanced in situ Characterizations for thin films: structural changes during thin film - light - reactant interactions</h2>
 
 <p><strong>What I did:</strong><br>
-Designed and carried out advanced synchrotron-based characterization workflows to monitor how semiconductor thin-film structures evolve during interactions with light and matter. This work introduced capabilities rarely applied in an industrial R&D setting, enabling in situ/operando analysis of structural evolution, interface behavior, and device-relevant material responses.</p>
+Developed synchrotron-based characterization workflows to monitor how semiconductor thin-film structures evolve during interactions with light and matter. The work combined in situ/operando measurements with custom experimental tools, enabling structural and interfacial changes to be studied under functionally relevant conditions.</p>
 
 <p><strong>Methods / tools:</strong><br>
-Thin-film fabrication, synchrotron characterization, 3D reciprocal space mapping, X-ray absorption near-edge structure analysis, device design, and Python-based data processing and visualization.</p>
+Thin-film fabrication, synchrotron characterization, 3D reciprocal space mapping, X-ray absorption near-edge structure analysis, custom measurement devices, in situ reactors, experimental tool design, and Python-based data processing and visualization.</p>
 
   <div class="project-image">
     <img src="assets/images/in-situ-thin-film.PNG" alt="in situ Characterizations for thin films">
