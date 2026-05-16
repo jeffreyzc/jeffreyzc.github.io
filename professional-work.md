@@ -81,13 +81,16 @@ Custom in situ synchrotron setups and analysis workflows for tracking structural
 
 <div class="project-block">
 
-  <h2>Multilayered Complex Polymer Structures</h2>
+  <h2>Simulation-Guided System Design for Artificial Photosynthesis</h2>
 
   <p><strong>Overview:</strong><br>
-  I designed and operated processing systems capable of producing multilayered polymer structures with more than 1,000 layers. I also designed complex foam/film alternating structures by selecting suitable materials and controlling the multilayer architecture.</p>
+  I developed a simulation-guided photon-management framework for artificial photosynthesis systems. Using COMSOL optical modeling, I studied how reactor geometry, reflector design, incident-light angle, and internal scaffold structure affect photon collection, illumination distribution, and reactor-volume utilization. These design principles were then used to guide the construction and operation of a prototype photochemical reaction system.</p>
 
   <div class="project-image">
-    <img src="assets/images/multilayer-polymer.PNG" alt="Multilayered complex polymer structures">
+    <img src="assets/images/reactor.PNG" alt="COMSOL optical modeling and prototype system design for artificial photosynthesis">
   </div>
+  <p class="image-caption">
+COMSOL optical modeling, reactor design, and prototype system construction for simulation-guided artificial photosynthesis.
+</p>
 
 </div>
