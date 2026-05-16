@@ -1,12 +1,70 @@
 ---
 layout: page
-title: Art
+title: Photography & Visual Work
 ---
 
-# Photography
+A small selection of photographs exploring quiet scenes, abstraction, memory, and atmosphere.
 
-Black-and-white photography exploring quiet scenes, abstraction, memory, and atmosphere.
+<style>
+.photo-section {
+  margin-bottom: 72px;
+}
 
-# Music
+.photo-section h2 {
+  margin-bottom: 22px;
+}
 
+.photo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  align-items: start;
+}
 
+.photo-grid img {
+  width: 100%;
+  border-radius: 6px;
+  display: block;
+}
+
+@media (max-width: 700px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<br>
+
+<div class="photo-section">
+
+  <h2>Quiet Distance</h2>
+
+  <div class="photo-grid">
+    <img src="assets/images/photo-snowy-mountain-fog.jpg" alt="Black-and-white snowy mountain in fog">
+    <img src="assets/images/photo-sailboat-horizon.jpg" alt="Black-and-white sailboat on distant horizon">
+  </div>
+
+</div>
+
+<div class="photo-section">
+
+  <h2>Built / Interior Stillness</h2>
+
+  <div class="photo-grid">
+    <img src="assets/images/photo-gallery-room.jpg" alt="Black-and-white gallery room with seascape painting and bench">
+    <img src="assets/images/photo-interior-plant-light.jpg" alt="Black-and-white interior plant with window light">
+  </div>
+
+</div>
+
+<div class="photo-section">
+
+  <h2>Abstract / Technical Studies</h2>
+
+  <div class="photo-grid">
+    <img src="assets/images/photo-water-reflection.jpg" alt="Black-and-white water reflection and ripple abstraction">
+    <img src="assets/images/photo-vacuum-chamber.jpg" alt="Black-and-white vacuum chamber close-up">
+  </div>
+
+</div>
