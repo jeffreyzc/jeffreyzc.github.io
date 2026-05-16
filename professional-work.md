@@ -80,3 +80,18 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
 </p>
 
 </div>
+
+<br>
+
+<div class="project-block">
+
+  <h2>Multilayer Film/Foam Polymer Structures</h2>
+
+  <p><strong>Overview:</strong><br>
+  I co-designed and built a multilayer polymer processing system, then developed the process and material combination needed to mass-produce alternating film/foam structures with micron-scale layers. This work enabled multilayer polymer architectures with micron-scale layers and improved structural and functional potential.</p>
+
+  <div class="project-image">
+    <img src="assets/images/multilayer.PNG" alt="Multilayer film/foam polymer processing system and resulting structure">
+  </div>
+
+</div>
