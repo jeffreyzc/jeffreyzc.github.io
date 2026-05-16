@@ -64,7 +64,7 @@ A small selection of photographs exploring quiet scenes, abstraction, memory, an
 
   <div class="photo-grid">
     <img src="assets/images/photography/photo-water-reflection.jpg" alt="Black-and-white water reflection and ripple abstraction">
-    <img src="assets/images/photography/photo-vacuum-chamber.png" alt="Black-and-white vacuum chamber close-up">
+    <img src="assets/images/photography/photo-vacuum-chamber.PNG" alt="Black-and-white vacuum chamber close-up">
   </div>
 
 </div>
