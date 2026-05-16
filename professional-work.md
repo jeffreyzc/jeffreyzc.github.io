@@ -43,7 +43,7 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
 
 <div class="project-block">
 
-  <h2>Advanced in situ Characterizations for thin films: structural changes during thin film - light - reactant interactions</h2>
+  <h2>Advanced Synchrotron in situ Characterizations for thin films</h2>
 
 <p><strong>What I did:</strong><br>
 Developed synchrotron-based characterization workflows to monitor how semiconductor thin-film structures evolve during interactions with light and matter. The work combined in situ/operando measurements with custom experimental tools, enabling structural and interfacial changes to be studied under functionally relevant conditions.</p>
@@ -61,7 +61,7 @@ Thin-film fabrication, synchrotron characterization, 3D reciprocal space mapping
   <h2>COMSOL Simulation and Photon-Management Framework</h2>
 
   <p><strong>What I did:</strong><br>
-  Built a photon-management framework for photochemical reactors for artificial photosynthesis. I used optical simulation and reactor design analysis to study how reflector geometry, realistic operations, and internal scaffold structure influence photon collection, illumination distribution, and light penetration through the reactor volume. The project emphasized a system-level design principle: photochemical reactor performance depends not only on how much light is collected, but also on how effectively that light is distributed and used inside the reactor.</p>
+  Built a photon-management framework for photochemical reactors for artificial photosynthesis. I used optical simulation and reactor design analysis to study how system design and realistic operation influence photon collection, illumination distribution, and light penetration through the reactor volume. The project emphasized system-level design principles.</p>
 
   <p><strong>Methods / tools:</strong><br>
   COMSOL ray optics, reflector and tubular reactor design, photon-flux mapping, optical transmission measurements, scaffold light-transport analysis, and prototype design and operation.</p>
