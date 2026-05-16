@@ -3,7 +3,6 @@ layout: page
 title: Professional / R&D Projects
 ---
 
-
 Selected work across photochemical systems, polymer materials, thin-film fabrication, synchrotron characterization, and prototype/system design.
 
 <style>
@@ -30,45 +29,38 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
 
   <h2>Semiconductor Thin-Film Fabrication and Characterization</h2>
 
-  <p><strong>Oviewview:</strong><br>
-  Fabricated and characterized complex semiconductor thin films with interface-engineering, focusing on how processing, morphology, and interfacial structure affect material behavior.</p>
-
-  <p><strong>Methods / tools:</strong><br>
-  Pulsed laser deposition Thin-film fabrication, Advanced XRD, microscopy, spectroscopy, and electronic/crystalline characterization.</p>
+  <p><strong>Overview:</strong><br>
+  I designed, fabricated, and characterized complex semiconductor thin films, including films less than 10 nm thick, using advanced pulsed laser deposition. This work focused on how crystalline structure, electronic structure, and interface quality evolve during thin-film growth and processing.</p>
 
   <div class="project-image">
-    <img src="assets/images/thin-film-prep.JPG" alt="Semiconductor thin-film fabrication and characterization">
+    <img src="assets/images/thin-film-prep.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
   </div>
 
 </div>
-
 
 <br>
 
 <div class="project-block">
 
-  <h2>Advanced Synchrotron in situ Characterizations for thin films</h2>
+  <h2>Advanced In Situ Synchrotron Characterization of Thin Films</h2>
 
-<p><strong>What I did:</strong><br>
-Developed synchrotron-based characterization workflows to monitor how semiconductor thin-film structures evolve during interactions with light and matter. The work combined in situ/operando measurements with custom experimental tools, enabling structural and interfacial changes to be studied under functionally relevant conditions.</p>
-
-<p><strong>Methods / tools:</strong><br>
-Thin-film fabrication, synchrotron characterization, 3D reciprocal space mapping, X-ray absorption near-edge structure analysis, custom measurement devices, in situ reactors, experimental tool design, and Python-based data processing and visualization.</p>
+  <p><strong>Overview:</strong><br>
+  I developed synchrotron-based characterization workflows to monitor how semiconductor thin-film structures evolve during interactions with light and matter. These measurements made it possible to study structural and interfacial changes under functionally relevant conditions.</p>
 
   <div class="project-image">
-    <img src="assets/images/in-situ-thin-film.PNG" alt="in situ Characterizations for thin films">
+    <img src="assets/images/in-situ-thin-film.PNG" alt="In situ synchrotron characterization of thin films">
   </div>
 
 </div>
+
+<br>
+
 <div class="project-block">
 
-  <h2>COMSOL Simulation and Photon-Management Framework</h2>
+  <h2>Simulation-Guided System Design for Artificial Photosynthesis</h2>
 
-  <p><strong>What I did:</strong><br>
-  Built a photon-management framework for photochemical reactors for artificial photosynthesis. I used optical simulation and reactor design analysis to study how system design and realistic operation influence photon collection, illumination distribution, and light penetration through the reactor volume. The project emphasized system-level design principles.</p>
-
-  <p><strong>Methods / tools:</strong><br>
-  COMSOL ray optics, reflector and tubular reactor design, photon-flux mapping, optical transmission measurements, scaffold light-transport analysis, and prototype design and operation.</p>
+  <p><strong>Overview:</strong><br>
+  I studied how to improve photon utilization and reactor-volume utilization in artificial photosynthesis systems. I used optical simulations to develop system design and operation principles, which were then used to guide the construction and operation of a prototype reaction system.</p>
 
   <div class="project-image">
     <img src="assets/images/reactor.PNG" alt="COMSOL photon-management simulation for tubular photochemical reactors">
@@ -76,5 +68,17 @@ Thin-film fabrication, synchrotron characterization, 3D reciprocal space mapping
 
 </div>
 
+<br>
 
+<div class="project-block">
 
+  <h2>Multilayered Complex Polymer Structures</h2>
+
+  <p><strong>Overview:</strong><br>
+  I designed and operated processing systems capable of producing multilayered polymer structures with more than 1,000 layers. I also designed complex foam/film alternating structures by selecting suitable materials and controlling the multilayer architecture.</p>
+
+  <div class="project-image">
+    <img src="assets/images/multilayer-polymer.PNG" alt="Multilayered complex polymer structures">
+  </div>
+
+</div>
