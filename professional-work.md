@@ -32,7 +32,7 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
 
 <div class="project-block">
 
-  <h2>Semiconductor Thin-Film Fabrication and Characterization</h2>
+  <h2>Semiconductor Thin-Film Design, Fabrication, and Characterization</h2>
 
   <p><strong>Overview:</strong><br>
 I designed, fabricated, and characterized complex semiconductor thin films, including films less than 10 nm thick, using advanced pulsed laser deposition. This work connected thin-film growth, crystallography, morphology, strain analysis, and atomic-scale structural characterization to understand how processing and interfaces shape material behavior.</p>
