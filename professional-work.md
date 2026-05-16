@@ -64,27 +64,13 @@ Custom in situ synchrotron setups and analysis workflows for tracking structural
 
 <br>
 
-<div class="project-block">
-
-  <h2>Simulation-Guided System Design for Artificial Photosynthesis</h2>
-
-  <p><strong>Overview:</strong><br>
-  I studied how to improve photon utilization and reactor-volume utilization in artificial photosynthesis systems. I used optical simulations to develop system design and operation principles, which were then used to guide the construction and operation of a prototype reaction system.</p>
-
-  <div class="project-image">
-    <img src="assets/images/reactor.PNG" alt="COMSOL photon-management simulation for tubular photochemical reactors">
-  </div>
-
-</div>
-
-<br>
 
 <div class="project-block">
 
   <h2>Simulation-Guided System Design for Artificial Photosynthesis</h2>
 
-  <p><strong>Overview:</strong><br>
-  I developed a simulation-guided photon-management framework for artificial photosynthesis systems. Using COMSOL optical modeling, I studied how reactor geometry, reflector design, incident-light angle, and internal scaffold structure affect photon collection, illumination distribution, and reactor-volume utilization. These design principles were then used to guide the construction and operation of a prototype photochemical reaction system.</p>
+<p><strong>Overview:</strong><br>
+I used COMSOL simulations to design artificial photosynthesis reactors with better light collection and distribution. The simulation results guided the design, construction, and operation of a prototype photochemical reaction system.</p>
 
   <div class="project-image">
     <img src="assets/images/reactor.PNG" alt="COMSOL optical modeling and prototype system design for artificial photosynthesis">
