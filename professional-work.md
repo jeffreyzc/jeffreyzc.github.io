@@ -42,7 +42,7 @@ Selected work across materials design, advanced characterization, data analysis,
   <h2>Semiconductor Thin-Film Fabrication and Characterization</h2>
   <p class="project-category">Advanced Materials</p>
 
-  <p><strong>Overview:</strong><br>
+  <p>
 I designed, fabricated, and characterized complex semiconductor thin films, including films less than 10 nm thick, using advanced pulsed laser deposition. This work connected thin-film growth, crystallography, morphology, strain analysis, and atomic-scale structural characterization to understand how processing and interfaces shape material behavior.</p>
 
   <div class="project-image">
@@ -58,7 +58,7 @@ I designed, fabricated, and characterized complex semiconductor thin films, incl
   <h2>Advanced In Situ Synchrotron Characterization of Thin Films</h2>
   <p class="project-category">Advanced Characterization</p>
 
-  <p><strong>Overview:</strong><br>
+  <p>
   I developed synchrotron-based characterization workflows to study how semiconductor thin films evolve during interactions with light, reactants, and controlled environments. This work combined custom in situ measurement systems, beamline-compatible reactor/tool design, and advanced data analysis to connect thin-film structural and electronic changes under functionally relevant conditions.</p>
 
 <div class="project-image">
@@ -96,7 +96,7 @@ Custom in situ synchrotron setups and analysis workflows for tracking structural
   <h2>Simulation-Guided System Design for Artificial Photosynthesis</h2>
   <p class="project-category">Simulation and System Design</p>
 
-<p><strong>Overview:</strong><br>
+<p>
 I used COMSOL simulations to design artificial photosynthesis reactors with better light collection and distribution. The simulation results guided the design, construction, and operation of a prototype photochemical reaction system.</p>
 
   <div class="project-image">
@@ -115,7 +115,7 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   <h2>Multilayer Film/Foam Polymer Structures</h2>
   <p class="project-category">Processing and Manufacturing Scale-Up</p>
 
-  <p><strong>Overview:</strong><br>
+  <p>
   I co-designed and built a multilayer polymer processing system, then developed the process and material combination needed to mass-produce alternating film/foam structures with micron-scale layers. This work enabled multilayer polymer architectures with micron-scale layers and improved structural and functional potential.</p>
 
   <div class="project-image">
@@ -131,7 +131,7 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   <h2>Selected Hardware and System Designs</h2>
   <p class="project-category">Experimental Hardware and Prototype Design</p>
 
-  <p><strong>Overview:</strong><br>
+  <p>
   I design custom hardware and experimental systems for advanced characterization, reaction engineering, and prototype development. Examples include synchrotron-compatible measurement cells, thin-film deposition accessories, high-pressure photocatalysis reactors, electrochemical testing tools, and simulation-guided photoreactor prototypes.</p>
 
   <div class="project-image">
