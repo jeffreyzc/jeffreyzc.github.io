@@ -94,7 +94,7 @@ Custom in situ synchrotron setups and analysis workflows for tracking structural
 <div class="project-block">
 
   <h2>Simulation-Guided System Design for Artificial Photosynthesis</h2>
-  <p class="project-category">Reactor and System Design</p>
+  <p class="project-category">Simulation and System Design</p>
 
 <p><strong>Overview:</strong><br>
 I used COMSOL simulations to design artificial photosynthesis reactors with better light collection and distribution. The simulation results guided the design, construction, and operation of a prototype photochemical reaction system.</p>
