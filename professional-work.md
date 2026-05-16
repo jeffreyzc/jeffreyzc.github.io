@@ -1,3 +1,47 @@
+---
+layout: page
+title: Professional / R&D Projects
+---
+
+# Professional / R&D
+
+Selected work across photochemical systems, polymer materials, thin-film fabrication, synchrotron characterization, and prototype/system design.
+
+<style>
+.project-row {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  margin-bottom: 60px;
+}
+
+.project-image {
+  flex: 1;
+}
+
+.project-image img {
+  width: 100%;
+  max-width: 420px;
+  border-radius: 8px;
+}
+
+.project-text {
+  flex: 1.4;
+}
+
+.project-text h2 {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .project-row {
+    flex-direction: column;
+  }
+}
+</style>
+
+<br>
+
 <div class="project-row">
 
   <div class="project-image">
