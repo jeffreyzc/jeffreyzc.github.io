@@ -56,3 +56,21 @@ Thin-film fabrication, synchrotron characterization, 3D reciprocal space mapping
   </div>
 
 </div>
+<div class="project-block">
+
+  <h2>COMSOL Simulation and Photon-Management Framework</h2>
+
+  <p><strong>What I did:</strong><br>
+  Built a photon-management framework for photochemical reactors for artificial photosynthesis. I used optical simulation and reactor design analysis to study how reflector geometry, realistic operations, and internal scaffold structure influence photon collection, illumination distribution, and light penetration through the reactor volume. The project emphasized a system-level design principle: photochemical reactor performance depends not only on how much light is collected, but also on how effectively that light is distributed and used inside the reactor.</p>
+
+  <p><strong>Methods / tools:</strong><br>
+  COMSOL ray optics, reflector and tubular reactor design, photon-flux mapping, optical transmission measurements, scaffold light-transport analysis, and prototype design and operation.</p>
+
+  <div class="project-image">
+    <img src="assets/images/reactor.PNG" alt="COMSOL photon-management simulation for tubular photochemical reactors">
+  </div>
+
+</div>
+
+
+
