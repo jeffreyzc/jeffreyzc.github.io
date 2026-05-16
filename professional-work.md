@@ -35,7 +35,7 @@ Selected work across photochemical systems, polymer materials, thin-film fabrica
   Fabricated and characterized semiconductor thin films and interface-engineered materials, focusing on how processing, morphology, and interfacial structure affect material behavior.</p>
 
   <p><strong>Methods / tools:</strong><br>
-  Thin-film fabrication, coating, XRD, microscopy, spectroscopy, and electronic/material characterization.</p>
+  Pulsed laser deposition Thin-film fabrication, Advanced XRD, microscopy, spectroscopy, and electronic/material characterization.</p>
 
   <div class="project-image">
     <img src="assets/images/thin-film-prep.JPG" alt="Semiconductor thin-film fabrication and characterization">
