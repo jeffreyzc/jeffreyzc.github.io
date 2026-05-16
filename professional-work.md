@@ -22,9 +22,11 @@ Selected work across materials design, advanced characterization, data analysis,
   display: block;
 }
 .image-caption {
-  font-size: 0.9em;
-  color: #666;
-  margin-top: 8px;
+  font-size: 0.92em;
+  font-weight: 600;
+  color: #555;
+  margin-top: 10px;
+  line-height: 1.4;
 }
 .project-category {
   font-size: 0.95em;
