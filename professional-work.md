@@ -106,3 +106,19 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   </div>
 
 </div>
+
+<br>
+
+<div class="project-block">
+
+  <h2>Selected Hardware and System Designs</h2>
+  <p class="project-category">Experimental Hardware and Prototype Design</p>
+
+  <p><strong>Overview:</strong><br>
+  I design custom hardware and experimental systems for advanced characterization, reaction engineering, and prototype development. Selected examples include synchrotron-compatible measurement cells, thin-film deposition accessories, high-pressure photocatalysis reactors, electrochemical testing tools, and simulation-guided photoreactor prototypes.</p>
+
+  <div class="project-image">
+    <img src="assets/images/design.PNG" alt="Selected hardware and system designs for advanced characterization, reactors, and prototypes">
+  </div>
+
+</div>
