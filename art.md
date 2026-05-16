@@ -41,8 +41,8 @@ A small selection of photographs exploring quiet scenes, abstraction, memory, an
   <h2>Quiet Distance</h2>
 
   <div class="photo-grid">
-    <img src="assets/images/photo-snowy-mountain-fog.jpg" alt="Black-and-white snowy mountain in fog">
-    <img src="assets/images/photo-sailboat-horizon.jpg" alt="Black-and-white sailboat on distant horizon">
+    <img src="assets/images/photography/photo-snowy-mountain-fog.jpg" alt="Black-and-white snowy mountain in fog">
+    <img src="assets/images/photography/photo-sailboat-horizon.jpg" alt="Black-and-white sailboat on distant horizon">
   </div>
 
 </div>
@@ -52,8 +52,8 @@ A small selection of photographs exploring quiet scenes, abstraction, memory, an
   <h2>Built / Interior Stillness</h2>
 
   <div class="photo-grid">
-    <img src="assets/images/photo-gallery-room.jpg" alt="Black-and-white gallery room with seascape painting and bench">
-    <img src="assets/images/photo-interior-plant-light.jpg" alt="Black-and-white interior plant with window light">
+    <img src="assets/images/photography/photo-gallery-room.jpg" alt="Black-and-white gallery room with seascape painting and bench">
+    <img src="assets/images/photography/photo-interior-plant-light.jpg" alt="Black-and-white interior plant with window light">
   </div>
 
 </div>
@@ -63,8 +63,8 @@ A small selection of photographs exploring quiet scenes, abstraction, memory, an
   <h2>Abstract / Technical Studies</h2>
 
   <div class="photo-grid">
-    <img src="assets/images/photo-water-reflection.jpg" alt="Black-and-white water reflection and ripple abstraction">
-    <img src="assets/images/photo-vacuum-chamber.jpg" alt="Black-and-white vacuum chamber close-up">
+    <img src="assets/images/photography/photo-water-reflection.jpg" alt="Black-and-white water reflection and ripple abstraction">
+    <img src="assets/images/photography/photo-vacuum-chamber.png" alt="Black-and-white vacuum chamber close-up">
   </div>
 
 </div>
