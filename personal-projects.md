@@ -27,3 +27,27 @@ title: Personal Projects
   </p>
 
 </div>
+
+
+<br>
+
+<br>
+
+<div class="project-block">
+
+  <h2>3D-Printed Functional Designs</h2>
+  <p class="project-category">CAD / 3D Printing / Photography, Home Systems, and Hobby Tools</p>
+
+  <p>
+  I design and 3D print functional parts for photography, home systems, and hobby tools/devices. These projects are driven by practical needs: improving airflow circulation, adapting cameras and accessories, improving usability, and building simple tools that are difficult or expensive to buy. The work combines CAD design, printability, fit testing, simple electronics, sensor-based logic, signal analysis, and iterative refinement.
+  </p>
+
+  <div class="project-image">
+    <img src="assets/images/fun.PNG" alt="3D-printed functional designs for photography, air filtration, and hobby tools or devices">
+  </div>
+
+  <p class="image-caption">
+  Selected personal hardware projects, including an air purifier design with enhanced airflow circulation, film camera accessories, ergonomic grips, and Arduino-based hobby tools/devices involving simple electronics and signal analysis.
+  </p>
+
+</div>
