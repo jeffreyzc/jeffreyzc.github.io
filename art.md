@@ -3,7 +3,7 @@ layout: page
 title: Photography & Visual Work
 ---
 
-A small selection of photographs exploring quiet scenes, abstraction, memory, and atmosphere.
+A small selection of photography projects exploring quiet scenes, abstraction, memory, and atmosphere.
 
 <style>
 .photo-section {
@@ -49,7 +49,7 @@ A small selection of photographs exploring quiet scenes, abstraction, memory, an
 
 <div class="photo-section">
 
-  <h2>Built / Interior Stillness</h2>
+  <h2>Interior Stillness</h2>
 
   <div class="photo-grid">
     <img src="assets/images/photography/photo-gallery-room.jpg" alt="Black-and-white gallery room with seascape painting and bench">
