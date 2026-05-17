@@ -2,7 +2,12 @@
 layout: page
 title: Photography & Visual Work
 ---
-
+<style>
+.post-title,
+.page-heading {
+  font-size: 2rem;
+}
+</style>
 #### A small selection of film photography projects exploring quiet scenes, abstraction, memory, and atmosphere.
 
 <style>
