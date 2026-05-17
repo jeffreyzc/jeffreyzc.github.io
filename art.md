@@ -11,9 +11,10 @@ title: Photography & Visual Work
 }
 
 .photo-section h2 {
+  font-size: 1.2em;
+  font-weight: 600;
   margin-bottom: 22px;
 }
-
 .photo-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -38,7 +39,7 @@ title: Photography & Visual Work
 
 <div class="photo-section">
 
-  <h2>Quiet Distance</h2>
+  <h2>A</h2>
 
   <div class="photo-grid">
     <img src="assets/images/photography/photo-snowy-mountain-fog.jpg" alt="Black-and-white snowy mountain in fog">
@@ -49,7 +50,7 @@ title: Photography & Visual Work
 
 <div class="photo-section">
 
-  <h2>Interior Stillness</h2>
+  <h2>B</h2>
 
   <div class="photo-grid">
     <img src="assets/images/photography/photo-gallery-room.jpg" alt="Black-and-white gallery room with seascape painting and bench">
@@ -60,7 +61,7 @@ title: Photography & Visual Work
 
 <div class="photo-section">
 
-  <h2>Abstract / Technical Studies</h2>
+  <h2>C</h2>
 
   <div class="photo-grid">
     <img src="assets/images/photography/photo-water-reflection.jpg" alt="Black-and-white water reflection and ripple abstraction">
