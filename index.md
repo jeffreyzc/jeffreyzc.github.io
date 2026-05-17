@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jeffrey Chen
+title: Jeffrey Chen, Ph.D.
 ---
 
 ### Cross-disciplinary R&D scientist and technology developer
