@@ -29,4 +29,4 @@ I work across materials science, mechanical/industrial design, prototype develop
 
 [Professional / R&D Projects](professional-work.html)  
 [Personal Projects](personal-projects.html)  
-[Photography & Visual Work](photography.html)
+[Photography & Visual Work](art.html)
