@@ -2,7 +2,12 @@
 layout: page
 title: Professional / R&D Projects
 ---
-
+<style>
+.post-title,
+.page-heading {
+  font-size: 2rem;
+}
+</style>
 #### Selected work across materials design, advanced characterization, data analysis, reactor systems, polymer processing, and prototype development.
 
 <style>
