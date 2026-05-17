@@ -17,11 +17,11 @@ I work across materials science, mechanical/industrial design, prototype develop
 <br>
 <br>
 ### Personal Projects
-**AI-assisted software building, 3D-printed functional designs, photography tools, home-system projects, and hobby devices.**
+AI-assisted software building, 3D-printed functional designs, photography tools, home-system projects, and hobby devices.
 <br>
 <br>
 ### Art and Photography
-**Quiet scenes, abstraction, and atmosphere.**
+Quiet scenes, abstraction, and atmosphere.
 <br>
 <br>
 
