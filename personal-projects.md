@@ -5,7 +5,7 @@ title: Personal Projects
 
 ### Personal projects are where I explore practical tools, small systems, design ideas, and visual experiments outside formal R&D work. Some are technical, some are artistic, and some sit between the two.
 
-# Personal Projects
+
 
 <br>
 
