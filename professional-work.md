@@ -3,7 +3,7 @@ layout: page
 title: Professional / R&D Projects
 ---
 
-Selected work across materials design, advanced characterization, data analysis, reactor systems, polymer processing, and prototype development.
+#### Selected work across materials design, advanced characterization, data analysis, reactor systems, polymer processing, and prototype development.
 
 <style>
 .project-block {
