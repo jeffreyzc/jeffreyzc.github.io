@@ -14,9 +14,11 @@ I work across materials science, mechanical/industrial design, prototype develop
 **Advanced Materials:** semiconductor thin films, nanomaterials, polymers, multilayer structures  
 **Characterization & Data:** advanced characterization, synchrotron methods, Python-assisted data analysis  
 **Systems & Design:** photochemical/electrochemical reactors, photon management, prototypes, 3D-printed functional designs
+<br>
 
 ### Personal Projects
-**AI-assisted tool building, 3D-printed functional designs, photography tools, home-system projects, and hobby devices.**
+**AI-assisted software building, 3D-printed functional designs, photography tools, home-system projects, and hobby devices.**
+<br>
 
 ### Art and Photography
 **Quiet scenes, abstraction, and atmosphere.**
