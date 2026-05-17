@@ -3,7 +3,7 @@ layout: page
 title: Photography & Visual Work
 ---
 
-A small selection of photography projects exploring quiet scenes, abstraction, memory, and atmosphere.
+A small selection of analog film photography projects exploring quiet scenes, abstraction, memory, and atmosphere.
 
 <style>
 .photo-section {
