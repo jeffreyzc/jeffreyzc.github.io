@@ -112,7 +112,8 @@ Representative AI-assisted Python workflows for quantitative analysis and visual
   <p class="project-category">Simulation and System Design</p>
 
 <p>
-I used COMSOL simulations to design artificial photosynthesis systems with better light collection and distribution. The simulation results guided the design, construction, and operation of a prototype photochemical reaction system.</p>
+I used COMSOL optical simulations to guide the design, construction, and operation of prototype artificial photosynthesis reactors with improved light collection and distribution.
+</p>
 
   <div class="project-image">
     <img src="assets/images/reactor.PNG" alt="COMSOL optical modeling and prototype system design for artificial photosynthesis">
@@ -130,8 +131,9 @@ COMSOL optical modeling, reactor design, and prototype system construction for s
   <h2>Multilayer Film/Foam Polymer Structures</h2>
   <p class="project-category">Processing and Manufacturing Scale-Up</p>
 
-  <p>
-  I co-designed and built a multilayer polymer processing system, then developed the process and material combination needed to mass-produce alternating film/foam structures with micron-scale layers. This work enabled multilayer polymer architectures with micron-scale layers and improved structural and functional potential.</p>
+<p>
+I co-designed and built a multilayer polymer processing system, then developed the process and material system needed to mass-produce alternating film/foam architectures with micron-scale structure and improved functional potential.
+</p>
 
   <div class="project-image">
     <img src="assets/images/multilayer.PNG" alt="Multilayer film/foam polymer processing system and resulting structure">
