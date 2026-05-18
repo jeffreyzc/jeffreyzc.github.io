@@ -17,7 +17,7 @@ title: Jeffrey Chen, Ph.D.
 
 I work across materials science, mechanical/industrial design, prototype development, and system-level engineering. This site collects selected professional R&D work, personal technical projects, and art projects.
 
-[About](about.html)  
+[More about me](about.html)  
 <br>
 
 
