@@ -50,7 +50,8 @@ title: Professional / R&D Projects
   <p class="project-category">Advanced Materials</p>
 
   <p>
-I designed, fabricated, and characterized complex semiconductor thin films, including films less than 10 nm thick, using advanced pulsed laser deposition and chemical vapor deposition. These works connected thin-film growth, crystallography, morphology, strain analysis, and atomic-scale structural characterization to understand how processing and interfaces shape material behavior.</p>
+I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, and interfaces shape material behavior.
+</p>
 
   <div class="project-image">
     <img src="assets/images/thin-film-prep.png" alt="Semiconductor thin-film design, fabrication, and characterization">
@@ -69,7 +70,8 @@ Representative thin-film fabrication, crystallography, morphology, strain analys
   <p class="project-category">Advanced Characterization</p>
 
   <p>
-  I developed synchrotron-based characterization workflows to study how semiconductor thin films evolve during interactions with light, reactants, and controlled environments. This work combined custom in situ measurement systems, beamline-compatible reactor/tool design, and advanced data analysis to connect thin-film structural and electronic changes under functionally relevant conditions.</p>
+I developed advanced synchrotron-based characterization workflows, custom in situ tools, and beamline-compatible reactors to study structural and electronic changes in semiconductor thin films under functionally relevant conditions.
+</p>
 
 <div class="project-image">
   <img src="assets/images/in-situ-thin-film.PNG" alt="In situ synchrotron characterization of thin films">
@@ -110,7 +112,7 @@ Representative AI-assisted Python workflows for quantitative analysis and visual
   <p class="project-category">Simulation and System Design</p>
 
 <p>
-I used COMSOL simulations to design artificial photosynthesis reactors with better light collection and distribution. The simulation results guided the design, construction, and operation of a prototype photochemical reaction system.</p>
+I used COMSOL simulations to design artificial photosynthesis systems with better light collection and distribution. The simulation results guided the design, construction, and operation of a prototype photochemical reaction system.</p>
 
   <div class="project-image">
     <img src="assets/images/reactor.PNG" alt="COMSOL optical modeling and prototype system design for artificial photosynthesis">
