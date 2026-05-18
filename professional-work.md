@@ -8,7 +8,7 @@ title: Professional / R&D Projects
   font-size: 2rem;
 }
 </style>
-#### Selected work across materials design, advanced characterization, data analysis, reactor systems, polymer processing, and prototype development.
+#### Selected work across thin films, nanomaterials, polymer materials, advanced characterization, data analysis, reactor systems, and prototype development. 
 
 <style>
 .project-block {
