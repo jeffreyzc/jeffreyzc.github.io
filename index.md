@@ -31,4 +31,4 @@ I work across materials science, mechanical/industrial design, prototype develop
 
 ## Contact
 
-[Email](mailto:jeffrey.zchen56@gmail.com) · [Google Scholar](https://scholar.google.ca/citations?user=bUPcBmYAAAAJ&hl=en)·
+[Email](mailto:jeffrey.zchen56@gmail.com) · [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bUPcBmYAAAAJ&view_op=list_works&sortby=pubdate)·
