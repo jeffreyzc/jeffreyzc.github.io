@@ -26,3 +26,9 @@ I work across materials science, mechanical/industrial design, prototype develop
 [Professional / R&D Projects](professional-work.html)  
 [Personal Projects](personal-projects.html)  
 [Photography & Visual Work](art.html)
+
+<br>
+
+## Contact
+
+[Email](mailto:jeffrey.zchen56@gmail.com) · [Google Scholar]([YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.ca/citations?user=bUPcBmYAAAAJ&hl=en)) · [GitHub](https://github.com/jeffreyzc)
