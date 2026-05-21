@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a cross-disciplinary R&D scientist and technology developer working across materials science, characterization, prototype development, and system-level engineering.
+I am a cross-disciplinary R&D scientist and technology developer based in Canada, working across materials science, characterization, prototype development, and system-level engineering.
 
 <br>
 
