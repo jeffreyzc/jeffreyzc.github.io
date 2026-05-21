@@ -9,7 +9,7 @@ I am a cross-disciplinary R&D scientist and technology developer working across 
 
 ## Things I Do
 
-**Materials:** semiconductor thin films, nanomaterials, polymers, and multilayer structures  
+**Advanced Materials:** semiconductor thin films, nanomaterials, polymers, and multilayer structures  
 
 **Characterization & Data:** advanced characterization, synchrotron methods, and Python/AI-assisted data analysis  
 
