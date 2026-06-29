@@ -31,7 +31,7 @@ title: Professional / R&D Projects
 
 .project-image {
   width: 100%;
-  max-width: 1150px;
+  max-width: 1250px;
   margin-top: 18px;
 }
 
