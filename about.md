@@ -21,6 +21,16 @@ I am a cross-disciplinary R&D scientist and technology developer based in Canada
 
 <br>
 
+## Skill Sets
+
+**Advanced Material Fabrication:** Pulsed laser deposition (PLD), magnetron sputtering, and chemical vapor deposition (CVD) of thin films. Nanomaterial synthesis. 
+
+**Characterization:** Synchrotron-based X-ray diffraction (XRD, XRR, GIXRD, 2D diffraction, and 3D Reciprocal space mapping). Synchrotron-based spectroscopy (soft and hard XAS). 
+
+**Data Analysis:** Synchrotron data analyses, Python-based scripts, and regular diffraction and spectroscopy analyses. 
+
+**Other tools:** Lab-based diffraction tools, XPS, UV-Vis, Gas Chromatography, Mass Spectrometry, TEM, SEM, AFM, DSC, Rheology, etc.  
+
 ## Approach
 
 I like projects that connect materials, tools, data, and systems — especially when ideas can be tested through prototypes, experiments, or practical workflows.
