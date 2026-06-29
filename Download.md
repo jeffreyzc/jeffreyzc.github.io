@@ -55,7 +55,7 @@ Loads a 2D SAXS detector image from an HDF5 file, converts detector pixels into 
 
 **File:** [`saxs_azimuthal_integration.py`](/assets/code/saxs_azimuthal_integration.py)
 
-Performs azimuthal integration within a selected q-annulus from a 2D SAXS image. It outputs \(I(\phi)\), supports masking of bad pixels and beamstop/rod regions, and can save the integrated profile as an `.xy` file.
+Performs azimuthal integration within a selected q-annulus from a 2D SAXS image. It outputs \(I(phi)\), supports masking of bad pixels and beamstop/rod regions, and can save the integrated profile as an `.xy` file.
 
 <br>
 
