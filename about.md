@@ -9,7 +9,7 @@ I am a cross-disciplinary R&D scientist and technology developer based in Canada
 
 ## Things I Do
 
-**Advanced Materials:** semiconductor thin films, nanomaterials, polymers, and multilayer structures  
+**Advanced Materials:** semiconductor thin films, nanomaterials, and multilayer structures  
 
 **Characterization & Data:** advanced characterization, synchrotron methods, and Python/AI-assisted data analysis  
 
