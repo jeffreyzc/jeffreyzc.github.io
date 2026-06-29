@@ -29,9 +29,12 @@ I work at the intersection of thin-film materials, synchrotron characterization,
 
 <br>
 
-## Resources & Tools
+
 
 [Resources & Tools](Resources&Tools.html)  
+
+<br>
+
 
 ## Contact
 
