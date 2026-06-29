@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+/* Make the whole website wider */
+.wrapper {
+  max-width: 1280px !important;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+/* Optional: keep long text readable */
+.project-block p,
+.post-content p,
+.post-content li {
+  max-width: 900px;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: 100% !important;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
