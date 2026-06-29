@@ -54,7 +54,7 @@ I designed, fabricated, and characterized complex semiconductor thin films, incl
 </p>
 
   <div class="project-image">
-    <img src="assets/images/thin-film-prep.jpg" alt="Semiconductor thin-film design, fabrication, and characterization">
+    <img src="assets/images/thin-film-prep.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
      <img src="assets/images/epitaxial thin film.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
   </div>
 
