@@ -29,7 +29,7 @@ I work at the intersection of thin-film materials, synchrotron characterization,
 
 <br>
 
-### Download
+## Download
 
 Resources, including synchrotron data-processing and thin film deposition scripts:
 <br>
