@@ -7,6 +7,48 @@ title: Art & Visual Work
 .page-heading {
   font-size: 2rem;
 }
+
+.project-block {
+  margin-bottom: 72px;
+}
+
+.project-block h2 {
+  margin-bottom: 12px;
+}
+
+.project-block p {
+  max-width: 900px;
+}
+
+.project-category {
+  font-size: 0.95em;
+  color: #666;
+  margin-top: -6px;
+  margin-bottom: 16px;
+  font-style: italic;
+}
+
+.project-image {
+  width: 100%;
+  max-width: 1150px;
+  margin-top: 18px;
+}
+
+.project-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.image-caption {
+  max-width: 1000px;
+  font-size: 0.92em;
+  font-weight: 600;
+  color: #555;
+  margin-top: 10px;
+  line-height: 1.4;
+}
 </style>
 #### A small selection of film photography projects exploring quiet scenes, abstraction, memory, and atmosphere.
 
