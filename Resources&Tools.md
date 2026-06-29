@@ -13,7 +13,7 @@ This page collects small Python tools I built for my own research workflow. Most
 ## Thin film deposition tools
 ### PLD Bayesian optimization helper and experiment logbook
 
-**File:** [`pld_bayesian_optimizer_csv.py`](scripts/pld_bayesian_optimizer_csv.py)
+**File:** [`pld_bayesian_optimizer_csv.py`](/assets/code/thinfilmbayesian.py)
 
 A CSV-only Bayesian optimization helper for PLD experiment planning. It reads completed experiments from a CSV log, rebuilds an Ax optimizer, suggests one new PLD recipe, and appends it as a pending trial.
 
@@ -25,7 +25,7 @@ This is an experimental tool using the AX platform. Give it a try - it can help 
 
 ### 3D diffraction integration (for 3D synchrotron Surface Micro-diffraction and diffraction patterns, such as those obtained at APS 33-ID)
 
-**File:** [`threeD_diffraction_integrate.py`](scripts/threeD_diffraction_integrate.py)
+**File:** [`threeD_diffraction_integrate.py`](/assets/code/3D_diffraction_integrate.py)
 
 Reads a 3D reciprocal-space `.vti` dataset, reconstructs the original \(Q_x, Q_y, Q_z\) grid, integrates selected windows, and exports 2D projections plus 1D line integrations.
 
@@ -33,7 +33,7 @@ Reads a 3D reciprocal-space `.vti` dataset, reconstructs the original \(Q_x, Q_y
 
 ### 2D diffraction FWHM analysis (for general synchrotron X-ray diffraction images)
 
-**File:** [`twoD_diffraction_fwhm.py`](scripts/twoD_diffraction_fwhm.py)
+**File:** [`twoD_diffraction_fwhm.py`](/assets/code/2D_diffraction_FWHM.py)
 
 Processes a series of 2D diffraction TIFF images, extracts 1D peak profiles, normalizes intensity, calculates peak position and FWHM, and tracks FWHM/strain evolution over time.
 
@@ -41,7 +41,7 @@ Processes a series of 2D diffraction TIFF images, extracts 1D peak profiles, nor
 
 ### SAXS radial integration (for data obtained at the APS 12-ID-B beamline)
 
-**File:** [`saxs_radial_integration.py`](scripts/saxs_radial_integration.py)
+**File:** [`saxs_radial_integration.py`](/assets/code/saxs_radial_integration.py)
 
 Loads a 2D SAXS detector image from an HDF5 file, converts detector pixels into reciprocal-space coordinates, displays the image in q-space, overlays a selected q-annulus, and calculates a radial \(I(q)\) profile.
 
@@ -50,7 +50,7 @@ Loads a 2D SAXS detector image from an HDF5 file, converts detector pixels into 
 
 ### SAXS azimuthal integration (for data obtained at the APS 12-ID-B beamline)
 
-**File:** [`saxs_azimuthal_integration.py`](scripts/saxs_azimuthal_integration.py)
+**File:** [`saxs_azimuthal_integration.py`](/assets/code/saxs_azimuthal_integration.py)
 
 Performs azimuthal integration within a selected q-annulus from a 2D SAXS image. It outputs \(I(\phi)\), supports masking of bad pixels and beamstop/rod regions, and can save the integrated profile as an `.xy` file.
 
