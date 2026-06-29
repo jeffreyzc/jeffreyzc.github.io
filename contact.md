@@ -5,5 +5,5 @@ title: Contact
 
 # Contact
 
-Email:  
+Email:  jeffrey.zchen56@gmail.com
 GitHub:  
