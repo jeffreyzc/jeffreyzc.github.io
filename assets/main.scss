@@ -1,48 +1,125 @@
 ---
+
 ---
 
 @import "minima";
 
-/* Make the whole website wider */
+/* =========================
+Global website width
+========================= */
+
 .wrapper {
-  max-width: 1280px !important;
-  padding-left: 32px;
-  padding-right: 32px;
+max-width: 1280px !important;
+padding-left: 32px;
+padding-right: 32px;
 }
 
-/* Header layout */
+/* =========================
+Header layout
+========================= */
+
 .site-header .wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 40px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+gap: 40px;
 }
 
 .site-title {
-  flex-shrink: 0;
-  margin-right: 24px;
+flex-shrink: 0;
+margin-right: 24px;
 }
 
 .site-nav {
-  margin-left: 0;
+margin-left: 0;
 }
 
-/* Keep text readable */
-.project-block p,
+/* =========================
+Global content width
+========================= */
+
+/* Make normal page content wider */
 .post-content p,
-.post-content li {
-  max-width: 900px;
+.post-content li,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content blockquote {
+max-width: 1150px;
 }
 
-/* Mobile layout */
-@media screen and (max-width: 800px) {
-  .wrapper {
-    max-width: 100% !important;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
+/* =========================
+Project page elements
+========================= */
 
-  .site-header .wrapper {
-    display: block;
-  }
+.project-block {
+margin-bottom: 72px;
+}
+
+.project-block h2 {
+margin-bottom: 12px;
+}
+
+.project-block p {
+max-width: 1150px;
+}
+
+.project-category {
+font-size: 0.95em;
+color: #666;
+margin-top: -6px;
+margin-bottom: 16px;
+font-style: italic;
+}
+
+.project-image {
+width: 100%;
+max-width: 1150px;
+margin-top: 18px;
+}
+
+.project-image img {
+width: 100%;
+height: auto;
+border-radius: 8px;
+display: block;
+}
+
+.image-caption {
+max-width: 1150px;
+font-size: 0.92em;
+font-weight: 600;
+color: #555;
+margin-top: 10px;
+line-height: 1.4;
+}
+
+/* =========================
+Mobile layout
+========================= */
+
+@media screen and (max-width: 800px) {
+.wrapper {
+max-width: 100% !important;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.site-header .wrapper {
+display: block;
+}
+
+.post-content p,
+.post-content li,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content blockquote,
+.project-block p,
+.project-image,
+.image-caption {
+max-width: 100%;
+}
 }
