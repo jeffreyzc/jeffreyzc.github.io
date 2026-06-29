@@ -8,7 +8,7 @@ title: Professional / R&D Projects
   font-size: 2rem;
 }
 </style>
-#### Selected work across thin films, nanomaterials, polymer materials, advanced characterization, data analysis, reactor systems, and prototype development. 
+#### Selected work across thin films, nanomaterials, advanced characterization, data analysis, reactor systems, and prototype development. 
 
 <style>
 .project-block {
@@ -50,11 +50,15 @@ title: Professional / R&D Projects
   <p class="project-category">Advanced Materials</p>
 
   <p>
-I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, and interfaces shape material behavior.
+I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, defects, and interfaces shape material behavior. I used pulsed laser deposition (PLD) to make both fully expitaxial and domain-matching epitaxial thin films. 
 </p>
 
   <div class="project-image">
-    <img src="assets/images/thin-film-prep.png" alt="Semiconductor thin-film design, fabrication, and characterization">
+    <img src="assets/images/thin-film-prep.jpg" alt="Semiconductor thin-film design, fabrication, and characterization">
+  </div>
+
+   <div class="project-image">
+    <img src="assets/images/epitaxial thin film.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
   </div>
   
 <p class="image-caption">
