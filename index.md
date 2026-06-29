@@ -25,7 +25,7 @@ I work at the intersection of thin-film materials, synchrotron characterization,
 
 [Professional / R&D Projects](professional-work.html)  
 [Personal Projects](personal-projects.html)  
-[Photography & Visual Work](art.html)
+[Art & Visual Work](art.html)
 
 <br>
 
