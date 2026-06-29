@@ -50,7 +50,7 @@ title: Professional / R&D Projects
   <p class="project-category">Advanced Materials</p>
 
   <p>
-I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, defects, and interfaces shape material behaviors. I used pulsed laser deposition (PLD) to make both fully expitaxial and domain-matching epitaxial thin films. 
+I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, defects, and interfaces shape material behaviors. I used pulsed laser deposition (PLD) to make both fully expitaxial and domain-matching epitaxial thin films based on substrate-thin film lattice interactions. 
 </p>
 
   <div class="project-image">
