@@ -1,5 +1,4 @@
----
-
+----------------------------------
 layout: page
 title: Professional / R&D Projects
 ----------------------------------
@@ -8,11 +7,6 @@ title: Professional / R&D Projects
 .post-title,
 .page-heading {
   font-size: 2rem;
-}
-
-/* Make the page wider than the default GitHub Pages/Jekyll theme */
-.wrapper {
-  max-width: 1200px;
 }
 
 /* Project blocks */
@@ -24,7 +18,7 @@ title: Professional / R&D Projects
   margin-bottom: 12px;
 }
 
-/* Keep paragraphs readable */
+/* Keep project text readable */
 .project-block p {
   max-width: 900px;
 }
@@ -63,6 +57,9 @@ title: Professional / R&D Projects
   line-height: 1.4;
 }
 </style>
+
+
+
 
 #### Selected work across thin films, nanomaterials, advanced characterization, data analysis, reactor systems, and prototype development.
 
