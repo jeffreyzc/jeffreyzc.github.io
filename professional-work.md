@@ -1,47 +1,35 @@
 ---
+
 layout: page
 title: Professional / R&D Projects
----
+----------------------------------
+
 <style>
 .post-title,
 .page-heading {
   font-size: 2rem;
 }
-</style>
-#### Selected work across thin films, nanomaterials, advanced characterization, data analysis, reactor systems, and prototype development. 
 
-<style>
-.project-block {
-  margin-bottom: 72px;
-}
+/* Make the page wider than the default GitHub Pages/Jekyll theme */
 .wrapper {
   max-width: 1200px;
 }
-.project-image {
-  max-width: 1150px;
+
+/* Project blocks */
+.project-block {
+  margin-bottom: 72px;
 }
 
-.project-image img {
-  width: 100%;
-} 
 .project-block h2 {
   margin-bottom: 12px;
 }
 
-.project-image img {
-  width: 100%;
+/* Keep paragraphs readable */
+.project-block p {
   max-width: 900px;
-  border-radius: 8px;
-  margin-top: 18px;
-  display: block;
 }
-.image-caption {
-  font-size: 0.92em;
-  font-weight: 600;
-  color: #555;
-  margin-top: 10px;
-  line-height: 1.4;
-}
+
+/* Category text under project title */
 .project-category {
   font-size: 0.95em;
   color: #666;
@@ -49,7 +37,37 @@ title: Professional / R&D Projects
   margin-bottom: 16px;
   font-style: italic;
 }
+
+/* Larger project image area */
+.project-image {
+  width: 100%;
+  max-width: 1150px;
+  margin-top: 18px;
+}
+
+/* Images fill the project image area */
+.project-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+/* Image caption */
+.image-caption {
+  max-width: 1000px;
+  font-size: 0.92em;
+  font-weight: 600;
+  color: #555;
+  margin-top: 10px;
+  line-height: 1.4;
+}
 </style>
+
+#### Selected work across thin films, nanomaterials, advanced characterization, data analysis, reactor systems, and prototype development.
+
+<br>
+
 
 <br>
 
