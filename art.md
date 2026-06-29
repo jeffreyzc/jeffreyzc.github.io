@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography & Visual Work
+title: Art & Visual Work
 ---
 <style>
 .post-title,
