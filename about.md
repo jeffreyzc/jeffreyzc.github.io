@@ -3,9 +3,10 @@ layout: page
 title: About
 ---
 
-I am a cross-disciplinary R&D scientist and technology developer based in Canada, with a strong focus on thin-film materials, epitaxial systems, synchrotron characterization, and experimental methodology development.
+I am a cross-disciplinary R&D scientist and technology developer based in Canada, focused on thin-film materials, epitaxial systems, synchrotron characterization, and experimental methodology development.
 
-My work connects thin-film growth, advanced structural and spectroscopic characterization, data analysis, and functional device or reactor environments. I am especially interested in using thin films as model systems to understand structure–property relationships, interfacial behavior, strain evolution, and material responses under realistic operating conditions.
+My work connects thin-film growth, advanced characterization, data analysis, and functional testing environments to understand how structure, interfaces, strain, and material responses evolve under realistic conditions.
+
 
 <br>
 
