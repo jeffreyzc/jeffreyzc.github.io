@@ -55,12 +55,9 @@ I designed, fabricated, and characterized complex semiconductor thin films, incl
 
   <div class="project-image">
     <img src="assets/images/thin-film-prep.jpg" alt="Semiconductor thin-film design, fabrication, and characterization">
+     <img src="assets/images/epitaxial thin film.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
   </div>
 
-   <div class="project-image">
-    <img src="assets/images/epitaxial thin film.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
-  </div>
-  
 <p class="image-caption">
 Representative thin-film fabrication, crystallography, morphology, strain analysis, and atomic-scale characterization.
 </p>
