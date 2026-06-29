@@ -32,7 +32,7 @@ My work connects thin-film growth, advanced characterization, data analysis, and
 
 **In Situ / Operando Method Development** Development of synchrotron diffraction and spectroscopy methods for studying thin-film materials during photochemical and electrochemical reactions, including experimental workflow design and synchronized data acquisition.
 
-**Data Analysis & Scientific Computing:** Synchrotron data analysis, reciprocal-space interpretation, diffraction and spectroscopy analysis, Python-based data-processing scripts, and AI-assisted scientific workflows.
+**Data Analysis & Scientific Computing:** Synchrotron data analysis, diffraction and spectroscopy analysis, Python-based data-processing scripts, and AI-assisted scientific workflows.
 
 **Additional Characterization & Laboratory Tools** Lab-based XRD, XPS, UV–Vis spectroscopy, gas chromatography, mass spectrometry, TEM, SEM, AFM, DSC, rheology, and related materials characterization techniques.
 
