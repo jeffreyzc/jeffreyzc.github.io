@@ -67,15 +67,15 @@ Representative thin-film fabrication, crystallography, morphology, strain analys
 </p>
 </div>
 
-
+<br>
 
 <div class="project-block">
 
-  <h2>Advanced In Situ Synchrotron Characterization of Thin Films</h2>
+  <h2>Advanced In Situ Synchrotron Characterizations of Thin Films</h2>
   <p class="project-category">Advanced Characterization</p>
 
   <p>
-I developed advanced synchrotron-based characterization workflows, custom in situ tools, and beamline-compatible reactors to study structural and electronic changes in semiconductor thin films under functionally relevant conditions.
+I developed advanced synchrotron-based characterization workflows, custom in situ tools, and beamline-compatible reactors to study crystal and electronic structural changes in semiconductor thin films under functionally relevant conditions, using diffraction and spectroscopic techniques. 
 </p>
 
 <div class="project-image">
