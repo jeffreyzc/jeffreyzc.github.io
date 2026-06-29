@@ -41,7 +41,7 @@ Processes a series of 2D diffraction TIFF images, extracts 1D peak profiles, nor
 
 ### SAXS radial integration (for data obtained at the APS 12-ID-B beamline)
 
-**File:** [`saxs_radial_integration.py`](/assets/code/saxs_radial_integration.py)
+**File:** [`saxs_radial_integration.py`](/assets/code/saxs_radius_intergration.py)
 
 Loads a 2D SAXS detector image from an HDF5 file, converts detector pixels into reciprocal-space coordinates, displays the image in q-space, overlays a selected q-annulus, and calculates a radial \(I(q)\) profile.
 
