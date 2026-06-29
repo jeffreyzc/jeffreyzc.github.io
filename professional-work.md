@@ -14,7 +14,16 @@ title: Professional / R&D Projects
 .project-block {
   margin-bottom: 72px;
 }
+.wrapper {
+  max-width: 1200px;
+}
+.project-image {
+  max-width: 1150px;
+}
 
+.project-image img {
+  width: 100%;
+} 
 .project-block h2 {
   margin-bottom: 12px;
 }
