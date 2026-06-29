@@ -34,7 +34,7 @@ My work connects thin-film growth, advanced characterization, data analysis, and
 
 **Data Analysis & Scientific Computing:** Synchrotron data analysis, diffraction and spectroscopy analysis, Python-based data-processing scripts, and AI-assisted scientific workflows.
 
-**Additional Characterization & Laboratory Tools** Lab-based XRD, XPS, UV–Vis spectroscopy, gas chromatography, mass spectrometry, TEM, SEM, AFM, DSC, rheology, and related materials characterization techniques.
+**General Characterization & Laboratory Tools** Lab-based XRD, XPS, UV–Vis spectroscopy, gas chromatography, mass spectrometry, TEM, SEM, AFM, DSC, rheology, and related materials characterization techniques.
 
 ## Approach
 
