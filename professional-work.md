@@ -9,7 +9,6 @@ title: Professional / R&D Projects
   font-size: 2rem;
 }
 
-/* Project blocks */
 .project-block {
   margin-bottom: 72px;
 }
@@ -18,12 +17,10 @@ title: Professional / R&D Projects
   margin-bottom: 12px;
 }
 
-/* Keep project text readable */
 .project-block p {
   max-width: 900px;
 }
 
-/* Category text under project title */
 .project-category {
   font-size: 0.95em;
   color: #666;
@@ -32,14 +29,12 @@ title: Professional / R&D Projects
   font-style: italic;
 }
 
-/* Larger project image area */
 .project-image {
   width: 100%;
   max-width: 1150px;
   margin-top: 18px;
 }
 
-/* Images fill the project image area */
 .project-image img {
   width: 100%;
   height: auto;
@@ -47,7 +42,6 @@ title: Professional / R&D Projects
   display: block;
 }
 
-/* Image caption */
 .image-caption {
   max-width: 1000px;
   font-size: 0.92em;
