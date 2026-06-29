@@ -4,7 +4,7 @@ theme: minima
 header_pages:
   - about.md
   - professional-work.md
-  - Resources&Tools.md
+  - Download.md
   - personal-projects.md
   - art.md
 
