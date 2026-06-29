@@ -15,7 +15,7 @@ title: Jeffrey Chen, Ph.D.
 
 ### Cross-disciplinary R&D scientist and technology developer
 
-I work across materials science, mechanical/industrial design, prototype development, and system-level engineering. This site collects selected professional R&D work, personal technical projects, and art projects.
+I work at the intersection of thin-film materials, synchrotron characterization, data analysis, prototype development, and system-level engineering. This site collects selected professional R&D work, personal technical projects, and art projects.
 
 [More about me](about.html)  
 <br>
