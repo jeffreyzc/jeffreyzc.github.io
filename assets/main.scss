@@ -10,7 +10,24 @@
   padding-right: 32px;
 }
 
-/* Optional: keep long text readable */
+/* Header layout */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+}
+
+.site-title {
+  flex-shrink: 0;
+  margin-right: 24px;
+}
+
+.site-nav {
+  margin-left: 0;
+}
+
+/* Keep text readable */
 .project-block p,
 .post-content p,
 .post-content li {
@@ -23,5 +40,9 @@
     max-width: 100% !important;
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .site-header .wrapper {
+    display: block;
   }
 }
