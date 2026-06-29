@@ -6,7 +6,7 @@ permalink: /resources/
 
 Dear colleagues:
 
-This page collects small Python tools I built for my own research workflow. Most of them were vibecoded with AI. They require editing the user-settings section before use, especially file paths, beamline geometry, detector center, q ranges, and experiment bounds. Please speak with beamline scientists and check your data folder for beamline-specific details needed to process data.
+This page collects small Python tools I built for my own research workflow. Most of them were vibecoded with AI. They require editing the user-settings section before use, especially file paths, beamline geometry, detector center, q ranges, and experiment bounds. Please speak with beamline scientists and check your data folder for beamline-specific details needed to process your data.
 
 ## Scripts
 
@@ -15,7 +15,7 @@ This page collects small Python tools I built for my own research workflow. Most
 
 **File:** [`pld_bayesian_optimizer_csv.py`](/assets/code/thinfilmbayesian.py)
 
-A CSV-only Bayesian optimization helper for PLD experiment planning. It reads completed experiments from a CSV log, rebuilds an Ax optimizer, suggests one new PLD recipe, and appends it as a pending trial.
+A CSV-only Bayesian optimization helper for PLD experiment planning and logging. It reads completed experiments from a CSV log, rebuilds an Ax optimizer, suggests one new PLD recipe, and appends it as a pending trial.
 
 This is an experimental tool using the AX platform. Give it a try - it can help if you have specific optimization goals.  
 
