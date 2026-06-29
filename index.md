@@ -29,6 +29,10 @@ I work at the intersection of thin-film materials, synchrotron characterization,
 
 <br>
 
+## Resources & Tools
+
+[Resources & Tools](Resources&Tools.html)  
+
 ## Contact
 
 [Email](mailto:jeffrey.zchen56@gmail.com) · [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bUPcBmYAAAAJ&view_op=list_works&sortby=pubdate)·
