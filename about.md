@@ -14,7 +14,7 @@ My work connects thin-film growth, advanced characterization, data analysis, and
 
 **Advanced Materials:** Semiconductor oxide thin films, epitaxial and domain-matching epitaxial systems, nanomaterials, and multilayer material structures.
 
-**Characterization & Data:** Synchrotron-based diffraction and spectroscopy, in situ/operando characterization, 2D/3D reciprocal-space mapping, and Python-assisted data analysis workflows. 
+**Characterization & Data:** Synchrotron-based diffraction and spectroscopy, in situ/operando characterization, 2D/3D reciprocal-space mapping, and Python/AI-assisted workflows for data analysis and Bayesian experimental design.
 
 **Systems, Prototypes & Tools:** Experimental platforms, prototype reactors, functional hardware, data-processing tools, and practical workflows for testing materials and devices.
 
