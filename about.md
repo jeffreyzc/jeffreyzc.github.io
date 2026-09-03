@@ -28,13 +28,16 @@ My work connects thin-film growth, advanced characterization, data analysis, and
 
 **Advanced Material Fabrication:** Pulsed laser deposition (PLD), magnetron sputtering, and chemical vapor deposition (CVD) of thin films. Nanomaterial synthesis. 
 
-**Characterization:** Synchrotron-based X-ray diffraction and scattering, including XRD, XRR, GIXRD, 2D diffraction, and 3D reciprocal-space mapping. Synchrotron-based spectroscopy, including soft and hard X-ray absorption spectroscopy. 
+**Advanced Characterization:** Synchrotron-based X-ray diffraction and scattering, including XRD, XRR, GIXRD, 2D diffraction, and 3D reciprocal-space mapping. Synchrotron-based spectroscopy, including soft and hard X-ray absorption spectroscopy. 
 
-**In Situ / Operando Method Development** Development of synchrotron diffraction and spectroscopy methods for studying thin-film materials during photochemical and electrochemical reactions, including experimental workflow design and synchronized data acquisition.
+**General Characterization & Laboratory Tools** TEM (HAADF), SEM, AFM; Rheed; Lab-based XRD, XPS, UV–Vis spectroscopy, photoluminescence; gas chromatography, mass spectrometry, DSC, rheology, and related materials characterization techniques.
+
+**In Situ / Operando Method Development** Development of in situ/operando synchrotron diffraction and spectroscopy methods for studying thin-film materials under functional conditions, including design of experimental platform and workflow.
 
 **Data Analysis & Scientific Computing:** Synchrotron data analysis, diffraction and spectroscopy analysis, Python-based data-processing scripts, and AI-assisted scientific workflows.
 
-**General Characterization & Laboratory Tools** Lab-based XRD, XPS, UV–Vis spectroscopy, gas chromatography, mass spectrometry, TEM, SEM, AFM, DSC, rheology, and related materials characterization techniques.
+**Engineering:** SolidWorks; COMSOL multiphysics, finite element analysis.
+
 
 ## Approach
 
