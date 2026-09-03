@@ -28,7 +28,7 @@ My work connects thin-film growth, advanced characterization, data analysis, and
 
 **Advanced Material Fabrication:** Pulsed laser deposition (PLD), magnetron sputtering, and chemical vapor deposition (CVD) of thin films. Nanomaterial synthesis. 
 
-**Advanced Characterization:** Synchrotron-based X-ray diffraction and scattering, including XRD, XRR, GIXRD, 2D diffraction, and 3D reciprocal-space mapping. Synchrotron-based spectroscopy, including soft and hard X-ray absorption spectroscopy. 
+**Advanced Characterization:** Synchrotron-based X-ray diffraction and scattering, including XRD, XRR, GIXRD, WAXS, 2D diffraction, and 3D reciprocal-space mapping. Synchrotron-based spectroscopy, including soft and hard X-ray absorption spectroscopy (XAS). 
 
 **General Characterization & Laboratory Tools** TEM (HAADF), SEM, AFM; Rheed; Lab-based XRD, XPS, UV–Vis spectroscopy, photoluminescence; gas chromatography, mass spectrometry, DSC, rheology, and related materials characterization techniques.
 
