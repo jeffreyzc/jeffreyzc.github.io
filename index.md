@@ -31,7 +31,7 @@ I work at the intersection of thin-film materials, synchrotron characterization,
 
 ## Download
 
-Resources, including synchrotron data-processing and thin film deposition scripts:
+Resources, including synchrotron data-processing scripts and a Bayesian Optimization tool for thin film deposition:
 <br>
 [Resources & Tools](Download.html)  
 
